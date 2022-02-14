@@ -1,4 +1,8 @@
 # Serveur Chatroom
 
-- start `npm start` : http://localhost:3000
+## Lancement du serveur :
 
+```bash
+npm start
+http://localhost:3000
+```
